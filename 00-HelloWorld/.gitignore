@@ -1,0 +1,35 @@
+# Ejecutables de C
+*.exe
+
+# Archivos objeto
+*.o
+*.obj
+
+# Archivos de depuración y símbolos
+*.pdb
+*.ilk
+*.idb
+
+# Archivos de compilación
+*.dll
+*.lib
+*.out
+
+# Carpetas comunes de compilación
+bin/
+obj/
+build/
+
+# Configuración de Visual Studio Code
+.vscode/
+.vscode/launch.json
+.vscode/tasks.json
+
+# Archivos de sistema (Windows/macOS)
+Thumbs.db
+.DS_Store
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
